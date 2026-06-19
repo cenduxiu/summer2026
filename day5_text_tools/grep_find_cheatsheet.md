@@ -1,0 +1,9 @@
+-i
+-n
+-v
+-c
+-r
+-name
+-type f/d
+-size +/-
+-mtime -/+
